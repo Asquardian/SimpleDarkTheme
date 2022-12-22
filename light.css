@@ -8,6 +8,7 @@ html{
 
 body{
     margin: 0;
+    background-color: rgb(255, 255, 255) !important;
     color: rgb(99, 99, 99) !important;
 }
 

@@ -8,11 +8,8 @@ html{
 
 body{
     margin: 0;
+    background-color: rgb(95, 95, 95) !important;
     color: rgb(255, 255, 255) !important;
-}
-
-main{
-    background-color: rgb(95, 95, 95);
 }
 
 button {
